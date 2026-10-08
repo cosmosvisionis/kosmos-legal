@@ -23,7 +23,7 @@ This Privacy Policy explains what information Kosmos Cut Pro (“the App,” “
 ## 1. Who we are
 
 
-Kosmos Cut Pro is developed by **Egehan Bakıcı**, based in Turkey. For privacy questions or requests under GDPR or KVKK (Turkey’s Personal Data Protection Law), contact us through the support channel listed on the App’s App Store page or inside the App.
+Kosmos Cut Pro is developed by **Egehan Bakıcı**, based in Turkey. For privacy questions or requests under GDPR or KVKK (Turkey’s Personal Data Protection Law), email **[ege.bakici35@gmail.com](mailto:ege.bakici35@gmail.com)** or see our [Support page](support.md).
 
 
 ---
